@@ -89,7 +89,7 @@ function renderProducts(container, products) {
             <img src="${prod.imagen}" 
                  alt="${prod.nombre}" 
                  loading="lazy"
-                 onerror="this.src='images/placeholder-product.jpg'">
+                 onerror="if(!this.dataset.fallback){this.dataset.fallback='1';this.src='images/placeholder-product.png';}">
             <span class="product-badge">${prod.categoriaNombre}</span>
           </div>
           <div class="product-body">

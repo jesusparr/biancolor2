@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
-  <rect width="800" height="600" fill="#e9ecef"/>
-  <rect x="50" y="50" width="700" height="500" rx="20" ry="20" fill="#dee2e6"/>
-  <circle cx="400" cy="250" r="80" fill="#adb5bd"/>
-  <path d="M360 250 L400 210 L440 250 L400 290 Z" fill="#868e96"/>
-  <text x="400" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#6c757d">Imagen de ejemplo</text>
-  <text x="400" y="440" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#adb5bd">Sustituya por imagen real del producto</text>
-</svg>
