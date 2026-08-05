@@ -1,0 +1,165 @@
+{
+  "categorias": [
+    {
+      "id": "pintura-interior",
+      "nombre": "Pintura Interior",
+      "productos": [
+        {
+          "ref": "PI-001",
+          "nombre": "Plástica Mate Premium",
+          "descripcion": "Pintura plástica mate de alta cobertura para interiores. Lavable y sin olor.",
+          "imagen": "images/catalogo/pintura-interior/plastica-mate-premium.jpg",
+          "marca": "Coloray"
+        },
+        {
+          "ref": "PI-002",
+          "nombre": "Acrílica Satinada",
+          "descripcion": "Pintura acrílica con acabado satinado. Ideal para salones y dormitorios.",
+          "imagen": "images/catalogo/pintura-interior/acrilica-satinada.jpg",
+          "marca": "Coloray"
+        },
+        {
+          "ref": "PI-003",
+          "nombre": "Anticondensación",
+          "descripcion": "Pintura especial para zonas con problemas de humedad y condensación.",
+          "imagen": "images/catalogo/pintura-interior/anticondensacion.jpg",
+          "marca": "Malcasa"
+        }
+      ]
+    },
+    {
+      "id": "pintura-exterior",
+      "nombre": "Pintura Exterior",
+      "productos": [
+        {
+          "ref": "PE-001",
+          "nombre": "Siloxana Exterior",
+          "descripcion": "Pintura siloxana para fachadas. Máxima resistencia a la intemperie.",
+          "imagen": "images/catalogo/pintura-exterior/siloxana-exterior.jpg",
+          "marca": "Coloray"
+        },
+        {
+          "ref": "PE-002",
+          "nombre": "Acrílica Exterior",
+          "descripcion": "Pintura acrílica para muros exteriores. Transpirable y resistente.",
+          "imagen": "images/catalogo/pintura-exterior/acrilica-exterior.jpg",
+          "marca": "Malcasa"
+        }
+      ]
+    },
+    {
+      "id": "esmaltes",
+      "nombre": "Esmaltes",
+      "productos": [
+        {
+          "ref": "ES-001",
+          "nombre": "Esmalte Sintético Brillante",
+          "descripcion": "Esmalte de alto brillo para madera y metal. Gran durabilidad.",
+          "imagen": "images/catalogo/esmaltes/esmalte-sintetico-brillante.jpg",
+          "marca": "Coloray"
+        },
+        {
+          "ref": "ES-002",
+          "nombre": "Esmalte Mate",
+          "descripcion": "Esmalte con acabado mate elegante. Ideal para muebles y puertas.",
+          "imagen": "images/catalogo/esmaltes/esmalte-mate.jpg",
+          "marca": "Malcasa"
+        }
+      ]
+    },
+    {
+      "id": "barnices",
+      "nombre": "Barnices",
+      "productos": [
+        {
+          "ref": "BA-001",
+          "nombre": "Barniz Brillante",
+          "descripcion": "Barniz transparente de alto brillo para madera. Protección UV.",
+          "imagen": "images/catalogo/barnices/barniz-brillante.jpg",
+          "marca": "Coloray"
+        },
+        {
+          "ref": "BA-002",
+          "nombre": "Barniz Satinado",
+          "descripcion": "Barniz con acabado satinado. Ideal para suelos de madera.",
+          "imagen": "images/catalogo/barnices/barniz-satinado.jpg",
+          "marca": "Malcasa"
+        }
+      ]
+    },
+    {
+      "id": "herramientas",
+      "nombre": "Herramientas",
+      "productos": [
+        {
+          "ref": "HE-001",
+          "nombre": "Rodillo Profesional 23cm",
+          "descripcion": "Rodillo de pelo medio para pintura de paredes y techos.",
+          "imagen": "images/catalogo/herramientas/rodillo-profesional.jpg",
+          "marca": "Biancolor"
+        },
+        {
+          "ref": "HE-002",
+          "nombre": "Brocha Plana 3\"",
+          "descripcion": "Brocha plana de 3 pulgadas para acabados precisos.",
+          "imagen": "images/catalogo/herramientas/brocha-plana.jpg",
+          "marca": "Biancolor"
+        },
+        {
+          "ref": "HE-003",
+          "nombre": "Cinta de Carrocero 50m",
+          "descripcion": "Cinta adhesiva profesional para enmascarar superficies.",
+          "imagen": "images/catalogo/herramientas/cinta-carrocero.jpg",
+          "marca": "Biancolor"
+        }
+      ]
+    },
+    {
+      "id": "decoracion",
+      "nombre": "Decoración",
+      "productos": [
+        {
+          "ref": "DE-001",
+          "nombre": "Efecto Hormigón",
+          "descripcion": "Pintura decorativa con efecto hormigón para paredes modernas.",
+          "imagen": "images/catalogo/decoracion/efecto-hormigon.jpg",
+          "marca": "Coloray"
+        },
+        {
+          "ref": "DE-002",
+          "nombre": "Veneciano Clásico",
+          "descripcion": "Estuco veneciano para acabados elegantes y sofisticados.",
+          "imagen": "images/catalogo/decoracion/veneciano-clasico.jpg",
+          "marca": "Malcasa"
+        }
+      ]
+    },
+    {
+      "id": "accesorios",
+      "nombre": "Accesorios",
+      "productos": [
+        {
+          "ref": "AC-001",
+          "nombre": "Lija Grano 120",
+          "descripcion": "Lija de grano medio para preparación de superficies.",
+          "imagen": "images/catalogo/accesorios/lija-grano-120.jpg",
+          "marca": "Biancolor"
+        },
+        {
+          "ref": "AC-002",
+          "nombre": "Masilla para Madera",
+          "descripcion": "Masilla de relleno para imperfecciones en madera.",
+          "imagen": "images/catalogo/accesorios/masilla-madera.jpg",
+          "marca": "Biancolor"
+        },
+        {
+          "ref": "AC-003",
+          "nombre": "Sellador Multiusos",
+          "descripcion": "Sellador profesional para juntas y grietas.",
+          "imagen": "images/catalogo/accesorios/sellador-multiusos.jpg",
+          "marca": "Biancolor"
+        }
+      ]
+    }
+  ]
+}
