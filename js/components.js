@@ -78,12 +78,12 @@
     '        <ul class="footer-links">',
     '          <li>',
     '            <a href="https://maps.google.com" target="_blank">',
-    '              Calle Principal, 123',
+    '              Calle Pedrera Baja, 32',
     '            </a>',
     '          </li>',
     '          <li>',
-    '            <a href="tel:+34900000000">',
-    '              900 000 000',
+    '            <a href="tel:+34XXXXXXXXX">',
+    '              XXXXXXXXX',
     '            </a>',
     '          </li>',
     '          <li>',
@@ -102,7 +102,7 @@
   ].join('\n');
 
   var whatsappHTML = [
-    '<a href="https://wa.me/34600000000?text=Hola%2C%20me%20gustar%C3%ADa%20informaci%C3%B3n%20sobre%20sus%20productos"',
+    '<a href="https://wa.me/34614802116?text=Hola%2C%20me%20gustar%C3%ADa%20informaci%C3%B3n%20sobre%20sus%20productos"',
     '   class="whatsapp-float d-md-none"',
     '   aria-label="Contactar por WhatsApp"',
     '   target="_blank">',
