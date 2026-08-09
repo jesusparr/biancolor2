@@ -78,7 +78,7 @@
     '        <ul class="footer-links">',
     '          <li>',
     '            <a href="https://maps.google.com" target="_blank">',
-    '              Calle Principal, 123',
+    '              Calle Pedrera Baja, 32',
     '            </a>',
     '          </li>',
     '          <li>',
