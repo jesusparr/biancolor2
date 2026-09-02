@@ -1273,17 +1273,24 @@ img {
 }
 
 .breadcrumb-item a {
-  color: var(--color-primary);
+  color: var(--color-secondary);
   font-weight: 500;
+  text-decoration: none;
+  transition: opacity var(--transition-fast);
+}
+
+.breadcrumb-item a:hover {
+  opacity: 0.8;
+  text-decoration: underline;
 }
 
 .breadcrumb-item.active {
-  color: var(--color-gray-600);
+  color: rgba(244, 162, 89, 0.7);
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
-  content: '>';
-  color: var(--color-gray-400);
+  content: '/';
+  color: rgba(255, 255, 255, 0.5);
 }
 
 /* Page header */
