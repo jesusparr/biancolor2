@@ -10,7 +10,6 @@ document.addEventListener('DOMContentLoaded', function () {
   initCatalogo();
 });
 
-/* ---------- Cargar catálogo ---------- */
 async function initCatalogo() {
   const catalogContainer = document.getElementById('catalogo-grid');
   const filtersContainer = document.getElementById('catalogo-filters');
