@@ -111,8 +111,8 @@
       ]
     },
     {
-      "id": "esmaltes",
-      "nombre": "Esmaltes",
+      "id": "esmalte-sintetico",
+      "nombre": "Esmalte sintético",
       "productos": [
         {
           "ref": "ES-MAP-0001",
