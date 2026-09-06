@@ -5,25 +5,60 @@
       "nombre": "Pintura Interior",
       "productos": [
         {
-          "ref": "PI-001",
-          "nombre": "Plástica Mate Premium",
-          "descripcion": "Pintura plástica mate de alta cobertura para interiores. Lavable y sin olor.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Coloray"
+          "ref": "PI-VAL-0001",
+          "nombre": "Valon extramate",
+          "descripcion": "Pintura vinílica con alta cubrición, rendimiento y máxima lavabilidad",
+          "imagen": "images/catalogo/PI-VAL-0001.jpg",
+          "marca": "Valentine"
         },
         {
-          "ref": "PI-002",
-          "nombre": "Acrílica Satinada",
-          "descripcion": "Pintura acrílica con acabado satinado. Ideal para salones y dormitorios.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Coloray"
+          "ref": "PI-RUA-0001",
+          "nombre": "MP-450 Xpert",
+          "descripcion": "Pintura extramate con alta cubrición y lavabilidad, muy opaca para evitar problemas en repasos",
+          "imagen": "images/catalogo/PI-RUA-0001.jpg",
+          "marca": "Rualaix"
         },
         {
-          "ref": "PI-003",
-          "nombre": "Anticondensación",
-          "descripcion": "Pintura especial para zonas con problemas de humedad y condensación.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Malcasa"
+          "ref": "PI-PIM-0001",
+          "nombre": "Super 5000",
+          "descripcion": "Pintura mate con alta cubrición, lavabilidad clase 1 y muy buen rendimiento",
+          "imagen": "images/catalogo/PI-PIM-0001.jpg",
+          "marca": "Pimasa"
+        },
+        {
+          "ref": "PI-BIA-0001",
+          "nombre": "B-700",
+          "descripcion": "Pintura mate, antimoho, perfumada, alta cubrición y buena lavabilidad",
+          "imagen": "images/catalogo/PI-BIA-0001.png",
+          "marca": "Biancolor"
+        },
+        {
+          "ref": "PI-MEN-0001",
+          "nombre": "Mate Oro",
+          "descripcion": "Pintura mate, especial para soportes con gotelé y colores intensos, alta cubrición, antimoho, euroclase en reacción al fuego",
+          "imagen": "images/catalogo/PI-MEN-0001.png",
+          "marca": "Mendieta"
+        },
+        {
+          "ref": "PI-BIA-0002",
+          "nombre": "B-350",
+          "descripcion": "Pintura mate cubriente, perfumada, lavabilidad óptima y buen rendimiento",
+          "imagen": "images/catalogo/PI-BIA-0002.png",
+          "marca": "Biancolor"
+        },
+        {
+          "ref": "PI-RUA-0002",
+          "nombre": "MP-300 Xpert",
+          "descripcion": "Pintura mate muy calibrada en cubrición y rendimiento, antimoho, lavabilidad óptima",
+          "imagen": "images/catalogo/PI-RUA-0002.jpg",
+          "marca": "Rualaix"
+        },
+        {
+          "ref": "PI-RUA-0003",
+          "nombre": "MP-200 XPert",
+          "descripcion": "Pintura mate especial soportes cartón yeso, muy adecuada para una alta cubrición en materiales porosos",
+          "imagen": "images/catalogo/PI-RUA-0003.jpg",
+          "marca": "Rualaix"
         }
       ]
     },
@@ -32,18 +67,46 @@
       "nombre": "Pintura Exterior",
       "productos": [
         {
-          "ref": "PE-001",
-          "nombre": "Siloxana Exterior",
-          "descripcion": "Pintura siloxana para fachadas. Máxima resistencia a la intemperie.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Coloray"
+          "ref": "PE-RUA-0004",
+          "nombre": "Silicon F500",
+          "descripcion": "Revestimiento siliconado, antimoho, gran cubrición y adherencia sobre soportes calcáreos",
+          "imagen": "images/catalogo/PE-RUA-0004.webp",
+          "marca": "Rualaix"
         },
         {
-          "ref": "PE-002",
-          "nombre": "Acrílica Exterior",
-          "descripcion": "Pintura acrílica para muros exteriores. Transpirable y resistente.",
+          "ref": "PE-MEN-0002",
+          "nombre": "Antifisuras",
+          "descripcion": "Revestimiento elástico con gran poder de cobertura en fisuras, antimoho, adherente en cualquier soporte y gran rendimiento",
+          "imagen": "images/catalogo/PE-MEN-0002.png",
+          "marca": "Mendieta"
+        },
+        {
+          "ref": "PE-MEN-0003",
+          "nombre": "Polisiloxano",
+          "descripcion": "Revestimiento al Polisiloxano, antimoho, muy transpirable y fotorreticulable (baja pegajosidad) autolimpiable con el agua de lluvia",
           "imagen": "images/placeholder-product.png",
-          "marca": "Malcasa"
+          "marca": "Mendieta"
+        },
+        {
+          "ref": "PE-BIA-0003",
+          "nombre": "RB-4",
+          "descripcion": "Revestimiento pétreo liso con alto poder de cubrición, antimoho, transpirable y muy buen rendimiento",
+          "imagen": "images/catalogo/PE-BIA-0003.png",
+          "marca": "Biancolor"
+        },
+        {
+          "ref": "PE-PIM-0002",
+          "nombre": "Revescril",
+          "descripcion": "Revestimiento liso, buen poder hidrofugante blancura y cubrición",
+          "imagen": "images/catalogo/PE-PIM-0002.jpg",
+          "marca": "Pimasa"
+        },
+        {
+          "ref": "PE-PIM-0003",
+          "nombre": "R-520",
+          "descripcion": "Revestimiento liso, blancura cubrición y rendimiento muy equilibrado",
+          "imagen": "images/catalogo/PE-PIM-0003.png",
+          "marca": "Pimasa"
         }
       ]
     },
@@ -52,112 +115,24 @@
       "nombre": "Esmaltes",
       "productos": [
         {
-          "ref": "ES-001",
-          "nombre": "Esmalte Sintético Brillante",
-          "descripcion": "Esmalte de alto brillo para madera y metal. Gran durabilidad.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Coloray"
-        },
-        {
-          "ref": "ES-002",
-          "nombre": "Esmalte Mate",
-          "descripcion": "Esmalte con acabado mate elegante. Ideal para muebles y puertas.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Malcasa"
+          "ref": "ES-MAP-0001",
+          "nombre": "Maperlux",
+          "descripcion": "Esmalte sintético antioxidante, buena nivelación secado y trabajabilidad",
+          "imagen": "images/catalogo/ES-MAP-0001.png",
+          "marca": "Maper"
         }
       ]
     },
     {
-      "id": "barnices",
-      "nombre": "Barnices",
+      "id": "esmalte-agua",
+      "nombre": "Esmaltes al Agua",
       "productos": [
         {
-          "ref": "BA-001",
-          "nombre": "Barniz Brillante",
-          "descripcion": "Barniz transparente de alto brillo para madera. Protección UV.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Coloray"
-        },
-        {
-          "ref": "BA-002",
-          "nombre": "Barniz Satinado",
-          "descripcion": "Barniz con acabado satinado. Ideal para suelos de madera.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Malcasa"
-        }
-      ]
-    },
-    {
-      "id": "herramientas",
-      "nombre": "Herramientas",
-      "productos": [
-        {
-          "ref": "HE-001",
-          "nombre": "Rodillo Profesional 23cm",
-          "descripcion": "Rodillo de pelo medio para pintura de paredes y techos.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Biancolor"
-        },
-        {
-          "ref": "HE-002",
-          "nombre": "Brocha Plana 3\"",
-          "descripcion": "Brocha plana de 3 pulgadas para acabados precisos.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Biancolor"
-        },
-        {
-          "ref": "HE-003",
-          "nombre": "Cinta de Carrocero 50m",
-          "descripcion": "Cinta adhesiva profesional para enmascarar superficies.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Biancolor"
-        }
-      ]
-    },
-    {
-      "id": "decoracion",
-      "nombre": "Decoración",
-      "productos": [
-        {
-          "ref": "DE-001",
-          "nombre": "Efecto Hormigón",
-          "descripcion": "Pintura decorativa con efecto hormigón para paredes modernas.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Coloray"
-        },
-        {
-          "ref": "DE-002",
-          "nombre": "Veneciano Clásico",
-          "descripcion": "Estuco veneciano para acabados elegantes y sofisticados.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Malcasa"
-        }
-      ]
-    },
-    {
-      "id": "accesorios",
-      "nombre": "Accesorios",
-      "productos": [
-        {
-          "ref": "AC-001",
-          "nombre": "Lija Grano 120",
-          "descripcion": "Lija de grano medio para preparación de superficies.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Biancolor"
-        },
-        {
-          "ref": "AC-002",
-          "nombre": "Masilla para Madera",
-          "descripcion": "Masilla de relleno para imperfecciones en madera.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Biancolor"
-        },
-        {
-          "ref": "AC-003",
-          "nombre": "Sellador Multiusos",
-          "descripcion": "Sellador profesional para juntas y grietas.",
-          "imagen": "images/placeholder-product.png",
-          "marca": "Biancolor"
+          "ref": "EA-RUA-0005",
+          "nombre": "Infinity",
+          "descripcion": "Esmalte al agua multiadherente con poliuretano, válido para cualquier soporte (incluso azulejo) no huele ni amarillea",
+          "imagen": "images/catalogo/EA-RUA-0005.png",
+          "marca": "Rualaix"
         }
       ]
     }
