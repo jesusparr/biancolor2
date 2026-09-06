@@ -7,42 +7,42 @@
         {
           "ref": "PI-VAL-0001",
           "nombre": "Valon extramate",
-          "descripcion": "Pintura vinílica con alta cubrición, rendimiento y máxima lavabilidad",
+          "descripcion": "Pintura vinílica con alta cubrición, rendimiento y máxima lavabilidad.",
           "imagen": "images/catalogo/PI-VAL-0001.jpg",
           "marca": "Valentine"
         },
         {
           "ref": "PI-RUA-0001",
           "nombre": "MP-450 Xpert",
-          "descripcion": "Pintura extramate con alta cubrición y lavabilidad, muy opaca para evitar problemas en repasos",
+          "descripcion": "Pintura extramate con alta cubrición y lavabilidad, muy opaca para evitar problemas en repasos.",
           "imagen": "images/catalogo/PI-RUA-0001.jpg",
           "marca": "Rualaix"
         },
         {
           "ref": "PI-PIM-0001",
           "nombre": "Super 5000",
-          "descripcion": "Pintura mate con alta cubrición, lavabilidad clase 1 y muy buen rendimiento",
+          "descripcion": "Pintura mate con alta cubrición, lavabilidad clase 1 y muy buen rendimiento.",
           "imagen": "images/catalogo/PI-PIM-0001.jpg",
           "marca": "Pimasa"
         },
         {
           "ref": "PI-BIA-0001",
           "nombre": "B-700",
-          "descripcion": "Pintura mate, antimoho, perfumada, alta cubrición y buena lavabilidad",
+          "descripcion": "Pintura mate, antimoho, perfumada, alta cubrición y buena lavabilidad.",
           "imagen": "images/catalogo/PI-BIA-0001.png",
           "marca": "Biancolor"
         },
         {
           "ref": "PI-MEN-0001",
           "nombre": "Mate Oro",
-          "descripcion": "Pintura mate, especial para soportes con gotelé y colores intensos, alta cubrición, antimoho, euroclase en reacción al fuego",
+          "descripcion": "Pintura mate, especial para soportes con gotelé y colores intensos, alta cubrición, antimoho, euroclase en reacción al fuego.",
           "imagen": "images/catalogo/PI-MEN-0001.png",
           "marca": "Mendieta"
         },
         {
           "ref": "PI-BIA-0002",
           "nombre": "B-350",
-          "descripcion": "Pintura mate cubriente, perfumada, lavabilidad óptima y buen rendimiento",
+          "descripcion": "Pintura mate cubriente, perfumada, lavabilidad óptima y buen rendimiento.",
           "imagen": "images/catalogo/PI-BIA-0002.png",
           "marca": "Biancolor"
         },
@@ -56,7 +56,7 @@
         {
           "ref": "PI-RUA-0003",
           "nombre": "MP-200 XPert",
-          "descripcion": "Pintura mate especial soportes cartón yeso, muy adecuada para una alta cubrición en materiales porosos",
+          "descripcion": "Pintura mate especial para soportes de cartón yeso, muy adecuada para alta cubrición en materiales porosos.",
           "imagen": "images/catalogo/PI-RUA-0003.jpg",
           "marca": "Rualaix"
         }
@@ -69,42 +69,42 @@
         {
           "ref": "PE-RUA-0004",
           "nombre": "Silicon F500",
-          "descripcion": "Revestimiento siliconado, antimoho, gran cubrición y adherencia sobre soportes calcáreos",
+          "descripcion": "Revestimiento siliconado, antimoho, gran cubrición y adherencia sobre soportes calcáreos.",
           "imagen": "images/catalogo/PE-RUA-0004.webp",
           "marca": "Rualaix"
         },
         {
           "ref": "PE-MEN-0002",
           "nombre": "Antifisuras",
-          "descripcion": "Revestimiento elástico con gran poder de cobertura en fisuras, antimoho, adherente en cualquier soporte y gran rendimiento",
+          "descripcion": "Revestimiento elástico con gran poder de cobertura en fisuras, antimoho, adherente en cualquier soporte y gran rendimiento.",
           "imagen": "images/catalogo/PE-MEN-0002.png",
           "marca": "Mendieta"
         },
         {
           "ref": "PE-MEN-0003",
           "nombre": "Polisiloxano",
-          "descripcion": "Revestimiento al Polisiloxano, antimoho, muy transpirable y fotorreticulable (baja pegajosidad) autolimpiable con el agua de lluvia",
+          "descripcion": "Revestimiento al polisiloxano, antimoho, muy transpirable y fotorreticulable (baja pegajosidad), autolimpiable con el agua de lluvia.",
           "imagen": "images/catalogo/PE-MEN-0003.png",
           "marca": "Mendieta"
         },
         {
           "ref": "PE-BIA-0003",
           "nombre": "RB-4",
-          "descripcion": "Revestimiento pétreo liso con alto poder de cubrición, antimoho, transpirable y muy buen rendimiento",
+          "descripcion": "Revestimiento pétreo liso con alto poder de cubrición, antimoho, transpirable y muy buen rendimiento.",
           "imagen": "images/catalogo/PE-BIA-0003.png",
           "marca": "Biancolor"
         },
         {
           "ref": "PE-PIM-0002",
           "nombre": "Revescril",
-          "descripcion": "Revestimiento liso, buen poder hidrofugante blancura y cubrición",
+          "descripcion": "Revestimiento liso, buen poder hidrofugante, blancura y cubrición.",
           "imagen": "images/catalogo/PE-PIM-0002.jpg",
           "marca": "Pimasa"
         },
         {
           "ref": "PE-PIM-0003",
           "nombre": "R-520",
-          "descripcion": "Revestimiento liso, blancura cubrición y rendimiento muy equilibrado",
+          "descripcion": "Revestimiento liso, blancura, cubrición y rendimiento muy equilibrado.",
           "imagen": "images/catalogo/PE-PIM-0003.png",
           "marca": "Pimasa"
         }
@@ -117,7 +117,7 @@
         {
           "ref": "ES-MAP-0001",
           "nombre": "Maperlux",
-          "descripcion": "Esmalte sintético antioxidante, buena nivelación secado y trabajabilidad",
+          "descripcion": "Esmalte sintético antioxidante, buena nivelación, secado y trabajabilidad.",
           "imagen": "images/catalogo/ES-MAP-0001.png",
           "marca": "Maper"
         }
@@ -130,7 +130,7 @@
         {
           "ref": "EA-RUA-0005",
           "nombre": "Infinity",
-          "descripcion": "Esmalte al agua multiadherente con poliuretano, válido para cualquier soporte (incluso azulejo) no huele ni amarillea",
+          "descripcion": "Esmalte al agua multiadherente con poliuretano, válido para cualquier soporte (incluso azulejo), no huele ni amarillea.",
           "imagen": "images/catalogo/EA-RUA-0005.png",
           "marca": "Rualaix"
         }
