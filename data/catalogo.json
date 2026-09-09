@@ -6,7 +6,7 @@
       "productos": [
         {
           "ref": "PI-VAL-0001",
-          "nombre": "Valon extramate",
+          "nombre": "Valón extramate",
           "descripcion": "Pintura vinílica con alta cubrición, rendimiento y máxima lavabilidad.",
           "imagen": "images/catalogo/PI-VAL-0001.jpg",
           "marca": "Valentine"
@@ -125,7 +125,7 @@
     },
     {
       "id": "esmalte-agua",
-      "nombre": "Esmaltes al Agua",
+      "nombre": "Esmalte al Agua",
       "productos": [
         {
           "ref": "EA-RUA-0005",
